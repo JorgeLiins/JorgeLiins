@@ -5,7 +5,8 @@
 <h3 align="center">I'm a front-end developer from Brazil, i have started studying web development since 2019. I'm current studying Vue.js 3, Nuxt, Vite and Node.js</h3>
 
 
-<hr>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeliins&show_icons=true&locale=en&layout=compact" alt="jorgeliins" /></p>
 
+<hr>
